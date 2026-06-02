@@ -2,6 +2,9 @@
 
 Python-based retail analytics platform built on association rule mining algorithms **Apriori** and **FP-Growth**.
 
+## Live Demo
+🔗 [retail-basket-analysis.streamlit.app](https://retail-basket-analysis.streamlit.app)
+
 ## What it does
 
 - Finds hidden purchasing patterns across 3,000+ transactions
