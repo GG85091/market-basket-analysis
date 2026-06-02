@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.idea/
+.claude/
+
+# Generated files
+*.pkl
+*.xlsx
+report.html
+
+# Data files (generated at runtime)
+transactions.csv
+правила.csv
+comparison_results.csv
+история_рекомендаций.csv
+
+# Output folders
+plots/
+
+# Temp / misc
+gui_err*.txt
+task_text.txt
+*.docx
+!Отчёт_Market_Basket_Analysis.docx
